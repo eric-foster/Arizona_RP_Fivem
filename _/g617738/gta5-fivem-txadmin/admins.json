@@ -1,0 +1,84 @@
+[
+  {
+    "name": "zap1193672",
+    "master": true,
+    "password_hash": "$2y$10$nkau4t8wySWhN0iFXWfJoeVHUUVcxwQZ4jLITE7G6HNLVQIfehOV2",
+    "providers": {},
+    "permissions": []
+  },
+  {
+    "name": "ARebelSoul",
+    "master": false,
+    "password_hash": "$2a$11$2lFi9/VoX9ISfp6abG5wH.zYv/RbyqeGAkmgu4ueLEBTc6GKC/4xC",
+    "providers": {
+      "citizenfx": {
+        "id": "ARebelSoul",
+        "identifier": "fivem:2406591",
+        "data": {}
+      },
+      "discord": {
+        "id": "916527930820132884",
+        "identifier": "discord:916527930820132884",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "GShepGames",
+    "master": false,
+    "password_hash": "$2a$11$LWjc/O9XQMdOLKV0EZTwyucRqlBSYoc5y8iTtahwguH/mFJgQyJJG",
+    "providers": {
+      "discord": {
+        "id": "490990536614739969",
+        "identifier": "discord:490990536614739969",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "CBayless",
+    "master": false,
+    "password_hash": "$2a$11$r8GWhC5.7JOHhtGpvN/ateAQz71KOg6C/PGFvUSVJm9.zeXEmSpUC",
+    "providers": {
+      "discord": {
+        "id": "477193248767475733",
+        "identifier": "discord:477193248767475733",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "BLACKBURN_01",
+    "master": false,
+    "password_hash": "$2a$11$siEHfhAYaRXI3/B/KmMkie4wmdLh8FSLI2lEloMWruA5bBCzBT5iq",
+    "providers": {
+      "citizenfx": {
+        "id": "BLACKBURN_01",
+        "identifier": "fivem:12503015",
+        "data": {
+          "name": "BLACKBURN_01",
+          "profile": "https://forum.cfx.re/u/BLACKBURN_01",
+          "nameid": "https://forum.cfx.re/internal/user/12503015",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/blackburn_01/256/3986013_2.png"
+        }
+      },
+      "discord": {
+        "id": "249237783246405642",
+        "identifier": "discord:249237783246405642",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
