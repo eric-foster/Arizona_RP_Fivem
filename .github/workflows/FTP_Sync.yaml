@@ -19,4 +19,4 @@ jobs:
           server: 185.249.196.248
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: ftp://ARebelSoul@185.249.196.248/g617738
+          server-dir: ftp://ARebelSoul@185.249.196.248/g617738/
