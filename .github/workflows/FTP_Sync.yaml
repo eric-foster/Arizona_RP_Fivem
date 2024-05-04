@@ -16,6 +16,6 @@ jobs:
       - name:  Sync files to server
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          server: ARebelSoul@185.249.196.248
+          server: 185.249.196.248
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
